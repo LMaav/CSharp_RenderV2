@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migue\\Downloads\\AutoRenderizadorV2\\AutoRenderizadorV2\\AutoRenderizador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5345DE2-156A-475B-9272-B67C11BC5DA7}|AutoRenderizador\\AutoRenderizador.csproj|c:\\users\\migue\\downloads\\autorenderizadorv2\\autorenderizadorv2\\autorenderizador\\autorenderizador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5345DE2-156A-475B-9272-B67C11BC5DA7}|AutoRenderizador\\AutoRenderizador.csproj|solutionrelative:autorenderizador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5345DE2-156A-475B-9272-B67C11BC5DA7}|AutoRenderizador\\AutoRenderizador.csproj|c:\\users\\migue\\downloads\\autorenderizadorv2\\autorenderizadorv2\\autorenderizador\\autorenderizador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5345DE2-156A-475B-9272-B67C11BC5DA7}|AutoRenderizador\\AutoRenderizador.csproj|solutionrelative:autorenderizador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5345DE2-156A-475B-9272-B67C11BC5DA7}|AutoRenderizador\\AutoRenderizador.csproj|c:\\users\\migue\\downloads\\autorenderizadorv2\\autorenderizadorv2\\autorenderizador\\autorenderizador\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5345DE2-156A-475B-9272-B67C11BC5DA7}|AutoRenderizador\\AutoRenderizador.csproj|solutionrelative:autorenderizador\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\AutoRenderizadorV2\\AutoRenderizadorV2\\AutoRenderizador\\AutoRenderizador\\Form1.cs",
+              "RelativeDocumentMoniker": "AutoRenderizador\\Form1.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\AutoRenderizadorV2\\AutoRenderizadorV2\\AutoRenderizador\\AutoRenderizador\\Form1.cs",
+              "RelativeToolTip": "AutoRenderizador\\Form1.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAH4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T23:03:53.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\AutoRenderizadorV2\\AutoRenderizadorV2\\AutoRenderizador\\AutoRenderizador\\Produto.cs",
+              "RelativeDocumentMoniker": "AutoRenderizador\\Produto.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\AutoRenderizadorV2\\AutoRenderizadorV2\\AutoRenderizador\\AutoRenderizador\\Produto.cs",
+              "RelativeToolTip": "AutoRenderizador\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T23:03:48.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\AutoRenderizadorV2\\AutoRenderizadorV2\\AutoRenderizador\\AutoRenderizador\\Form1.cs",
+              "RelativeDocumentMoniker": "AutoRenderizador\\Form1.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\AutoRenderizadorV2\\AutoRenderizadorV2\\AutoRenderizador\\AutoRenderizador\\Form1.cs [Design]",
+              "RelativeToolTip": "AutoRenderizador\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T23:03:46.946Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
